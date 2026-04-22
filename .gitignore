@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Large data files
+data/TRAIN.csv
+data/TEST_FINAL.csv
+data/train_cleaned.csv
+data/cleaned_TRAIN.csv
