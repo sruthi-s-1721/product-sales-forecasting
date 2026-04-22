@@ -2,7 +2,8 @@
 
 A machine learning pipeline to forecast daily retail sales across 365 stores using historical sales data, store attributes, and temporal features.
 
-- **Live Demo:** [Deployment URL will go here after Render deploy]
+- **Live Demo:** https://product-sales-forecasting-ditj.onrender.com
+  - *Note: The free tier sleeps after 15 min of inactivity. First request after sleep takes ~30-60 sec to wake up — please be patient on your first visit.*
 - **Tableau Dashboard:** https://public.tableau.com/app/profile/sruthi.s6388/viz/ProductSalesForecasting_17768358106560/DeepDiveStoreRegion
 
 ---
@@ -41,6 +42,8 @@ Retail businesses need accurate sales forecasts to optimize inventory, staffing,
 - **Deployment:** Flask, Gunicorn, Render
 
 ## 📂 Project Structure
+
+```
 sales_forecasting/
 ├── notebooks/
 │   ├── 01_EDA_and_Hypothesis_Testing.ipynb
@@ -54,6 +57,8 @@ sales_forecasting/
 │   └── templates/
 │       └── index.html
 ├── requirements.txt
+├── runtime.txt
 ├── Procfile
 ├── .gitignore
 └── README.md
+```
