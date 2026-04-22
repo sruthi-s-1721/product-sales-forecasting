@@ -5,6 +5,7 @@ A machine learning pipeline to forecast daily retail sales across 365 stores usi
 - **Live Demo:** https://product-sales-forecasting-ditj.onrender.com
   - *Note: The free tier sleeps after 15 min of inactivity. First request after sleep takes ~30-60 sec to wake up — please be patient on your first visit.*
 - **Tableau Dashboard:** https://public.tableau.com/app/profile/sruthi.s6388/viz/ProductSalesForecasting_17768358106560/DeepDiveStoreRegion
+- **Technical Blog (Medium):** https://medium.com/@sruthiswathandran/from-raw-csv-to-live-api-a-retail-sales-forecasting-journey-d38146002b1b
 
 ---
 
